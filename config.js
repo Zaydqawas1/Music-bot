@@ -1,15 +1,15 @@
 module.exports = {
     app: {
-        token: 'MTA0MDQxMDkyMTk5MTk0NjM1MA.G7jR7m.tEXeVJeAqHQzzWn0fSrUV63ckg0TjjMxZx6_J8',
+        token: ''MTA0MDcyNDU5MjY4MTAzNzg4NA.GVNMLY.8Stm18CehDTgHFaHEvXCe8hQsfVLPSw4fp9rJ0',
         playing: 'by Zerio ❤️',
         global: true,
-        guild: '931305518415355970'
+        guild: '764861399884234773'
     },
 
     opt: {
         DJ: {
             enabled: false,
-            roleName: '1040413430282207276',
+            roleName: '',
             commands: []
         },
         maxVol: 100,
