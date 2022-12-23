@@ -1,7 +1,7 @@
 module.exports = {
     app: {
-        token: ''MTA0MDcyNDU5MjY4MTAzNzg4NA.GVNMLY.8Stm18CehDTgHFaHEvXCe8hQsfVLPSw4fp9rJ0',
-        playing: 'by Zerio ❤️',
+        token: ''MTA0MDcyNDU5MjY4MTAzNzg4NA.GtFgcw.lZtUA1lmZcKUJMuULr0YCYUouy-EbgFYecYPlE',
+        playing: 'Niggers in my butthole ❤️',
         global: true,
         guild: '764861399884234773'
     },
